@@ -152,8 +152,8 @@ h2 + h3 {
 }
 
 h3 {
-	font-size: 110%;
-	border-bottom: none;
+	font-size: 90%;
+	border-bottom: blue;
 }
 
 p {
